@@ -1,0 +1,11 @@
+{
+  "start_date": "2025-01-01",
+  "end_date": "2025-12-31",
+  "target_orders": 16000,
+  "seed": 42,
+  "currency": "INR",
+  "academic_calendar": true,
+  "weather_effects": true,
+  "inject_anomalies": true,
+  "inject_quality_issues": false
+}

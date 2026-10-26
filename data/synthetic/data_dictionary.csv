@@ -1,0 +1,14 @@
+column_name,data_type,description
+transaction_id,string,Unique transaction line identifier (e.g. TXN_00000001)
+order_id,string,Basket/receipt identifier grouping items purchased together
+customer_id,string,Pseudonymous customer code (e.g. CUST_0042) or GUEST_XXXX
+transaction_date,date,Date of transaction (YYYY-MM-DD)
+transaction_time,time,Timestamp of sale (HH:MM:SS)
+product_id,string,Product catalog ID (e.g. PRD_SN_01)
+product_name,string,Plain name of item (e.g. Samosa (2 pcs))
+category,string,"Product category: Breakfast, Snacks, Meals, Beverages, Desserts, Healthy"
+quantity,integer,Quantity purchased in transaction
+unit_price,float,Gross menu unit price in INR (₹)
+discount,float,Promotional discount applied in INR (₹)
+unit_cost,float,Estimated cost of goods sold per unit in INR (₹)
+payment_method,string,"Payment tender: UPI, College Card, Cash, Card"

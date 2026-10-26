@@ -1,0 +1,5 @@
+date,event_type,description,expected_direction,ground_truth_flag
+2025-02-21,Anomaly_Spike,Annual Cultural Fest Day 2,up,True
+2025-07-24,Anomaly_Drop,Campus Heavy Flood & Power Outage,down,True
+2025-09-15,Anomaly_Spike,Engineers Day Celebration Food Fair,up,True
+2025-11-04,Anomaly_Drop,Unscheduled Institution Closure,down,True

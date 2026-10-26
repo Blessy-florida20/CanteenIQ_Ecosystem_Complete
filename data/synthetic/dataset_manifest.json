@@ -1,0 +1,29 @@
+{
+  "dataset_name": "CanteenIQ Institutional Benchmark Dataset",
+  "generated_timestamp": "2026-10-26T11:12:08.036591",
+  "seed": 42,
+  "config_hash": "7753f66bc8bc3573d700636bcfc9d13c8862da0af3cdec314db67d1967daccae",
+  "config": {
+    "start_date": "2025-01-01",
+    "end_date": "2025-12-31",
+    "target_orders": 16000,
+    "seed": 42,
+    "currency": "INR",
+    "academic_calendar": true,
+    "weather_effects": true,
+    "inject_anomalies": true,
+    "inject_quality_issues": false
+  },
+  "row_counts": {
+    "transactions": 24572,
+    "unique_orders": 15177,
+    "unique_products": 21,
+    "unique_customers": 2832,
+    "ground_truth_events": 4
+  },
+  "date_range": {
+    "start": "2025-01-01",
+    "end": "2025-12-31"
+  },
+  "synthetic_disclaimer": "Simulated data. Not actual canteen performance."
+}

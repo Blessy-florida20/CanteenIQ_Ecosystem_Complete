@@ -1,0 +1,22 @@
+product_id,product_name,category,unit_price,unit_cost,base_popularity,peak_time_affinity,weather_sensitivity,exam_sensitivity,shelf_life_hours,prep_unit,is_veg,story
+PRD_BF_01,Masala Dosa,Breakfast,60.0,28.0,1.2,breakfast,neutral,0.9,3,Plate,True,High morning volume anchor item
+PRD_BF_02,Idli Sambar (2 pcs),Breakfast,40.0,16.0,1.1,breakfast,neutral,0.9,4,Plate,True,Stable low-cost breakfast staple
+PRD_BF_03,Poha,Breakfast,35.0,14.0,0.8,breakfast,neutral,0.8,4,Bowl,True,Quick breakfast snack
+PRD_SN_01,Samosa (2 pcs),Snacks,30.0,12.0,1.5,evening,rain,1.3,6,Pair,True,Elevated co-purchase with Masala Chai
+PRD_SN_02,Veg Puff,Snacks,25.0,10.0,1.0,evening,neutral,1.2,8,Piece,True,Consistent afternoon grab-and-go
+PRD_SN_03,Paneer Kathi Roll,Snacks,80.0,42.0,0.9,evening,neutral,1.1,4,Roll,True,High-margin premium snack
+PRD_SN_04,French Fries,Snacks,60.0,24.0,0.7,evening,rain,1.2,2,Basket,True,Popular youth snack
+PRD_ML_01,South Indian Thali,Meals,110.0,55.0,1.4,lunch,neutral,0.7,3,Thali,True,Heavy lunch volume cornerstone
+PRD_ML_02,Rajma Chawal,Meals,85.0,38.0,1.1,lunch,cold,0.8,4,Plate,True,Popular comfort meal
+PRD_ML_03,Veg Biryani,Meals,120.0,58.0,1.2,lunch,neutral,0.9,4,Bowl,True,High-revenue specialty lunch
+PRD_ML_04,Mini Lunch,Meals,70.0,32.0,0.8,lunch,neutral,0.8,3,Combo,True,Budget-friendly student meal
+PRD_BV_01,Masala Chai,Beverages,15.0,5.0,1.8,all_day,rain,1.6,2,Cup,True,"All-day high-frequency driver, strong exam surge"
+PRD_BV_02,Filter Coffee,Beverages,25.0,9.0,1.3,all_day,cold,1.5,2,Cup,True,High exam affinity and evening study beverage
+PRD_BV_03,Cold Coffee,Beverages,60.0,25.0,0.9,all_day,hot,1.3,6,Glass,True,Price-sensitive item; surges in hot months
+PRD_BV_04,Fresh Lime Soda,Beverages,35.0,12.0,0.8,lunch,hot,1.0,1,Glass,True,Weather-sensitive afternoon cooler
+PRD_DS_01,Gulab Jamun (2 pcs),Desserts,40.0,18.0,0.8,lunch,neutral,0.7,24,Bowl,True,Traditional meal add-on
+PRD_DS_02,Chocolate Brownie,Desserts,65.0,30.0,0.7,evening,neutral,1.2,48,Piece,True,Exam stress-reliever treat
+PRD_DS_03,Fruit Custard,Desserts,45.0,22.0,0.6,lunch,neutral,0.5,6,Cup,True,Declining item: demand fades over the year
+PRD_HL_01,Sprouted Salad,Healthy,50.0,20.0,0.6,breakfast,neutral,1.0,4,Bowl,True,Rising star: growing wellness trend over the year
+PRD_HL_02,Fresh Fruit Bowl,Healthy,60.0,28.0,0.7,breakfast,hot,0.9,3,Bowl,True,Premium morning healthy choice
+PRD_HL_03,Green Tea,Healthy,20.0,6.0,0.5,all_day,cold,1.4,1,Cup,True,Health-conscious beverage alternative
